@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/basti-ki-pathshala/static/css/main.467c3bba.css",
+    "main.js": "/basti-ki-pathshala/static/js/main.49753c4b.js",
+    "static/js/125.24c2c01f.chunk.js": "/basti-ki-pathshala/static/js/125.24c2c01f.chunk.js",
+    "index.html": "/basti-ki-pathshala/index.html",
+    "main.467c3bba.css.map": "/basti-ki-pathshala/static/css/main.467c3bba.css.map",
+    "main.49753c4b.js.map": "/basti-ki-pathshala/static/js/main.49753c4b.js.map",
+    "125.24c2c01f.chunk.js.map": "/basti-ki-pathshala/static/js/125.24c2c01f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.467c3bba.css",
+    "static/js/main.49753c4b.js"
+  ]
+}
